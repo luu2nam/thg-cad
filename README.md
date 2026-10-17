@@ -1,6 +1,6 @@
 # THG CAD — plugin AutoCAD 2025 / 2026 / 2027
 
-Sản phẩm của **Phòng KCM - Công ty CP Than Hòn Gai - TKV**: bộ công cụ AutoCAD cho bản vẽ mỏ.
+Sản phẩm của **Phòng KCM - Công ty Than Hòn Gai - TKV**: bộ công cụ AutoCAD cho bản vẽ mỏ.
 
 Kho này **chỉ chứa bộ cài** (mục [Releases](../../releases)). Mã nguồn không công khai.
 
