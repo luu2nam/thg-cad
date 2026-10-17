@@ -1,6 +1,6 @@
 # THG — plugin AutoCAD 2027
 
-Plugin AutoCAD của **phòng KCM, Công ty CP Than Hòn Gai - TKV**: in ấn PDF, lộ thiên (bề mặt 3D, mặt cắt, khối lượng,
+Plugin AutoCAD của **phòng KCM, Công ty Than Hòn Gai - TKV**: in ấn PDF, lộ thiên (bề mặt 3D, mặt cắt, khối lượng,
 cung độ, thiết kế tầng), chuẩn hóa layer.
 
 Kho này **chỉ chứa bộ cài** (mục [Releases](../../releases)). Mã nguồn không công khai.
