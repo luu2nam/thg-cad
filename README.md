@@ -1,23 +1,21 @@
-# THG — plugin AutoCAD 2027
+# THG CAD — plugin AutoCAD 2027
 
-Plugin AutoCAD của **phòng KCM, Công ty Than Hòn Gai - TKV**: in ấn PDF, lộ thiên (bề mặt 3D, mặt cắt, khối lượng,
-cung độ, thiết kế tầng), chuẩn hóa layer.
+Sản phẩm của **Phòng KCM - THG**: in ấn PDF, lộ thiên (bề mặt 3D, mặt cắt, khối lượng, cung độ, thiết kế tầng), chuẩn hóa layer.
 
 Kho này **chỉ chứa bộ cài** (mục [Releases](../../releases)). Mã nguồn không công khai.
 
 ## Cài đặt
 1. Vào [Releases](../../releases/latest), tải `THG-Setup-x.y.z.exe`.
 2. **Lưu bản vẽ và đóng AutoCAD.**
-3. Bấm đúp bộ cài:
-   - **Cài cho mọi người trên máy** (cần quyền quản trị) — AutoCAD không hỏi "Load / Do Not Load" mỗi lần mở. Khuyên dùng.
-   - **Chỉ cài cho tôi** — không cần quyền quản trị; lần mở AutoCAD đầu tiên bấm "Always Load".
-4. Mở AutoCAD 2027 → tab **THG** trên Ribbon → **Hướng dẫn**.
+3. Bấm đúp bộ cài, chọn **Cài cho mọi người trên máy** (khuyên dùng, cần quyền quản trị) — AutoCAD không hỏi "Load / Do Not Load" mỗi lần mở.
+   Không có quyền quản trị: chọn **Chỉ cài cho tôi**, khi AutoCAD hỏi thì bấm "Always Load".
+4. Mở AutoCAD 2027 → tab **THG CAD** trên Ribbon → **Hướng dẫn**.
 
 ## Cập nhật
-Trong AutoCAD: tab **THG** → **Kiểm tra cập nhật**. Plugin không tự cập nhật ngầm.
+Trong AutoCAD: tab **THG CAD** → **Kiểm tra cập nhật**. Plugin không tự cập nhật ngầm.
 
 ## Gỡ cài đặt
-Windows **Settings → Apps → "THG - Than Hòn Gai"**.
+Windows **Settings → Apps → "THG CAD"**.
 
 ## Kiểm tra file tải về (tùy chọn)
 Mỗi bản phát hành kèm file `.sha256`. Kiểm tra trong PowerShell:
