@@ -1,4 +1,4 @@
-# THG CAD — plugin AutoCAD 2027
+# THG CAD — plugin AutoCAD 2025 / 2026 / 2027
 
 Sản phẩm của **Phòng KCM - THG**: in ấn PDF, lộ thiên (bề mặt 3D, mặt cắt, khối lượng, cung độ, thiết kế tầng), chuẩn hóa layer.
 
@@ -9,7 +9,7 @@ Kho này **chỉ chứa bộ cài** (mục [Releases](../../releases)). Mã ngu�
 2. **Lưu bản vẽ và đóng AutoCAD.**
 3. Bấm đúp bộ cài, chọn **Cài cho mọi người trên máy** (khuyên dùng, cần quyền quản trị) — AutoCAD không hỏi "Load / Do Not Load" mỗi lần mở.
    Không có quyền quản trị: chọn **Chỉ cài cho tôi**, khi AutoCAD hỏi thì bấm "Always Load".
-4. Mở AutoCAD 2027 → tab **THG CAD** trên Ribbon → **Hướng dẫn**.
+4. Mở AutoCAD → tab **THG CAD** trên Ribbon → **Hướng dẫn**.
 
 ## Cập nhật
 Trong AutoCAD: tab **THG CAD** → **Kiểm tra cập nhật**. Plugin không tự cập nhật ngầm.
